@@ -186,3 +186,26 @@ padding:70px 20px;
 }
 
 }
+.tagline{
+    color:#7cff4f;
+    font-size:18px;
+    letter-spacing:3px;
+    margin-bottom:20px;
+    text-transform:uppercase;
+}
+
+.hero-content h1{
+    font-size:90px;
+    font-weight:900;
+    line-height:0.9;
+    margin-bottom:20px;
+}
+
+.hero-content h1 span{
+    color:#7cff4f;
+}
+
+.hero-content{
+    max-width:700px;
+    padding:100px 60px;
+}
